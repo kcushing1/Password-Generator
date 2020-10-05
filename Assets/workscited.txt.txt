@@ -1,0 +1,3 @@
+creating an alphabet string in lower and uppercase
+Rob via codeacademy.com comment on forum question "How to define alphabets in an array?" <https://www.codecademy.com/forum_questions/509d604717f6ec020000186a>
+
