@@ -1,6 +1,9 @@
 # Password-Generator
 HW #3
 
+Published site: <https://kcushing1.github.io/Password-Generator/>
+
+image of generate button found at "Assets/03-javascript-homework-demo"
 
 ## Acceptance Criteria
 
