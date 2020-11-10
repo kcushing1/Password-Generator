@@ -1,9 +1,10 @@
 # Password-Generator
-HW #3
+A quick tool to develop a randomly generated password of chosen length and character type (lower case, upper case, special and numbers)
 
-Published site: <https://kcushing1.github.io/Password-Generator/>
 
-image of generate button found at "Assets/03-javascript-homework-demo"
+deployed site: https://kcushing1.github.io/Password-Generator/
+
+![password generator demo](./Assets/password-generator-demo.gif)
 
 ## Acceptance Criteria
 
@@ -24,44 +25,4 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-## Grading Requirements
-
-This homework is graded based on the following criteria: 
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the above acceptance criteria plus the following:
-
-  * The homework should not produce any errors in the console when you inspect it using Chrome DevTools.
-
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository that contains application code.
-
-### Application Quality: 15%
-
-* Application user experience is intuitive and easy to navigate.
-
-* Application user interface style is clean and polished.
-
-* Application resembles the mock-up functionality provided in the homework instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality README file with description, screenshot, and link to deployed application.
-
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+```
