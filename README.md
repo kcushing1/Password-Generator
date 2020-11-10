@@ -2,7 +2,7 @@
 A quick tool to develop a randomly generated password of chosen length and character type (lower case, upper case, special and numbers)
 
 
-deployed site: https://kcushing1.github.io/Password-Generator/
+https://kcushing1.github.io/Password-Generator/
 
 ![password generator demo](./Assets/password-generator-demo.gif)
 
