@@ -6,6 +6,9 @@ https://kcushing1.github.io/Password-Generator/
 
 ![password generator demo](./Assets/password-generator-demo.gif)
 
+## Tools Used
+JavaScript. HTML/CSS.
+
 ## Acceptance Criteria
 
 ```
